@@ -1,4 +1,4 @@
 #Chen Wei Ming
 ##Swift Hello World
 
-![ios-swift-firstdeom-helloworld-chenweiming](https://cloud.githubusercontent.com/assets/5610299/10907895/c6ac644c-8268-11e5-9d41-20fdf8664aac.png)
+![ios-swift-firstdeom-helloworld-chenweiming](https://cloud.githubusercontent.com/assets/5610299/10908875/d8ae68fa-826f-11e5-946f-bdab321738fa.png)
